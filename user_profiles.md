@@ -1,4 +1,3 @@
-# loyal
-# The Occasional Customer
-# The New Customer
-# The Tourist
+# User Profiles
+1.Loyal
+
